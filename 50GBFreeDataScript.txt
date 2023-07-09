@@ -15,7 +15,7 @@
    <meta property="og:image" content="https://lh3.googleusercontent.com/4SttL828JJNE5WUUDDH2dUiEUFs8CFXemQzVOI1KQVqRUwsraLWNmvUDx88djryoGUU=s180">
    <meta property="og:title" content="Internet for free: 50 GB">
    <meta property="og:description" content="60 days of free internet">
-   <meta property="og:url" content="https://Your-Domain.Com">
+   <meta property="og:url" content="https://sumityadav234.github.io/freedata.github.io/">
    <!-- This Refresh Meta For Your Finel Link Change With Your Own -->
    <meta http-equiv="refresh" content="180; url=http://www.mobgyan.in" />
    
